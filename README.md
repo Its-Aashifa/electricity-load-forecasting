@@ -27,7 +27,8 @@ Accurate load forecasting helps in power planning, cost optimization, and reliab
 - EDA completed
 - Baseline regression model implemented
 - Further improvements in progress
-
+## Dataset
+The dataset is not included in this repository due to size limitations.
 ## Future Improvements
 - Time series models (ARIMA / advanced regression)
 - Feature enhancement
